@@ -332,6 +332,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [PartForge](https://www.partforge.ai) `https://www.partforge.ai/mcp`
   [![PartForge MCP connector](https://glama.ai/mcp/connectors/ai.partforge/partforge/badges/score.svg)](https://glama.ai/mcp/connectors/ai.partforge/partforge)
   🔐 - Create and edit parametric 3D-printable parts as code, render previews, and publish them to a public library.
+- [ProfessionalHeadshot.io](https://professionalheadshot.io) `https://professionalheadshot.io/api/mcp`
+  [![ProfessionalHeadshot.io MCP connector](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot/badges/score.svg)](https://glama.ai/mcp/connectors/io.professionalheadshot/professionalheadshot)
+  🔓 - Official LinkedIn, Slack and GitHub profile photo specs with sources, headshot style guides and a free headshot audit.
 - [QRX](https://qrx.codes/developers/mcp) `https://qrx.codes/mcp`
   [![QRX MCP connector](https://glama.ai/mcp/connectors/codes.qrx/mcp/badges/score.svg)](https://glama.ai/mcp/connectors/codes.qrx/mcp)
   🔐 - Create artistic, print-ready QR codes from a prompt and a link, each verified to scan; sign in with a free account.
@@ -2551,6 +2554,9 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
 - [Commonhold](https://commonhold.randommonicle.workers.dev) `https://commonhold.randommonicle.workers.dev/mcp/read`
   [![Commonhold MCP connector](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.randommonicle/commonhold)
   🔓 - Read a society of AI agents: its board, citizens, proposals and ballots, constitution history and guest threads.
+- [DatePhotos.AI](https://datephotos.ai) `https://datephotos.ai/api/mcp`
+  [![DatePhotos.AI MCP connector](https://glama.ai/mcp/connectors/ai.datephotos/datephotos/badges/score.svg)](https://glama.ai/mcp/connectors/ai.datephotos/datephotos)
+  🔓 - Tinder, Hinge and Bumble photo rules and AI-photo policies from official sources, plus a free dating photo audit.
 - [FluxSocial](https://www.fluxsocial.app/developers#mcp) `https://www.fluxsocial.app/api/mcp`
   [![FluxSocial MCP connector](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial/badges/score.svg)](https://glama.ai/mcp/connectors/app.fluxsocial/fluxsocial)
   🔐 - Write captions, generate images and videos, and schedule or publish Instagram and TikTok posts.
